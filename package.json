@@ -2,7 +2,7 @@
   "name": "course",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ibrahem-hassan2000.github.io",
+  "homepage": " https://ibrahem-hassan2000.github.io/li-course",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
